@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Primary Canal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Saluran Primer", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ 113.556216441256296, -8.374177076294464, 0.0 ], [ 113.556917013916305, -8.373225346867843, 0.0 ], [ 113.557195080096704, -8.372897912899955, 0.0 ], [ 113.558060748839097, -8.372156717713146, 0.0 ], [ 113.559665123612106, -8.370811454229079, 0.0 ], [ 113.560394908991398, -8.370182531688904, 0.0 ], [ 113.561879978061697, -8.368912208468789, 0.0 ] ] } }
+]
+}
